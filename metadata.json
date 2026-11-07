@@ -1,0 +1,6 @@
+{
+  "name": "AdeizaBiz",
+  "description": "Sell Smarter. Manage Better. Professional POS, Inventory & Business Management for Retail and Supermarkets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
